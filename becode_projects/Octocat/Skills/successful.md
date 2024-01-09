@@ -1,0 +1,3 @@
+- C
+- Python
+- Very basics of HTML/CSS a long time ago
